@@ -208,3 +208,5 @@ you can use the cmake option `cmake -DLIB_INSTALL_DIR:PATH="/usr/lib64" ..`.
 
 
 Author: nightwalker-87
+
+https://nchc.dl.sourceforge.net/project/mingw-w64/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/8.1.0/threads-win32/sjlj/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0.7z
